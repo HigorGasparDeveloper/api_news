@@ -1,0 +1,10 @@
+{
+    "name": "hondn/api_news",
+    "description": "API rest de consulta e inser\u0000\u0000o de not\u0000cias em um portal de estudo.",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {}
+}
